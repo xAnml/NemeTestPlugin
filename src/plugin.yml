@@ -1,0 +1,6 @@
+name: NemeTestPlugin
+main: net.anmlmc.nemetestplugin.NemeTestPlugin
+version: 1.0
+commands:
+   stats:
+    aliases: [statistics]
